@@ -1,0 +1,160 @@
+{
+  "Il Bisbetico Domato":
+  {
+    "Directed by":		"Franco Castellano, Giuseppe Moccia",
+    "Written by":			"Franco Castellano, Giuseppe Moccia",
+    "Based on":			"",
+    "Produced by": 		"",
+    "Starring":			"Adriano Celentano, Ornella Muti",
+    "Cinematography":		"Alfio Contini",
+    "Edited by":			"Antonio Siciliano",
+    "Music by":			"Detto Mariano",
+    "Production Company":	"Cineriz",
+    "Distributed by":		"Verleih J",
+    "Release date":		"20 December 1980 (Italy)",
+    "Running time":		"96 min. ca. (104 min. original uncut version)",
+    "Countries":			"Italy",
+    "Genre" : 			"Comedy",
+    "Age category" : 		"14+",
+    "Language":			"Italian",
+    "Actors and roles":
+        {
+          "Adriano Celentano" : "Elia Codogno",
+          "Ornella Muti" : "Lisa Silvestri",
+          "Edith Peters" : "Mamie",
+          "Pippo Santonastaso" : "Don Cirillo",
+          "Milly Carlucci" : "Renata",
+          "Marco Columbro" : "the chauffeur",
+          "Sandro Ghiani" : "the gas station attendant"
+        }
+  },
+  "Bingo Bongo":
+      {
+        "Directed by": 			"Pasquale Festa Campanile",
+        "Written by": 			"Franco Ferrini, Enrico Oldoini",
+        "Based on":			    "",
+        "Produced by": 			"Mario & Vittorio Cecchi Gori",
+        "Starring": 			"Adriano Celentano, Carole Bouquet",
+        "Cinematography": 		"Alfio Contini",
+        "Edited by": 			"Amedeo Salfa",
+        "Music by": 			"Pinuccio Pierazzoli",
+        "Production Company":		"",
+        "Distributed by":		"",
+        "Genre" : 			    "Comedy",
+        "Release date": 		"25 December 1982",
+        "Running time": 		"105 minutes",
+        "Countries": 			"Italy, West Germany",
+        "Age category" : 		"12+",
+	    "Language":			    "Deutsche, Italian",
+        "Actors and roles":
+            {
+              "Adriano Celentano" : "Bingo Bongo",
+              "Carole Bouquet" :	"Laura",
+              "Felice Andreasi" : 	"Professor Fortis",
+              "Enzo Robutti" : 	"Doctor Muller",
+              "Sal Borgese" : 	"Doctor"
+            }
+      },
+  "Life Is Beautiful":
+      {
+        "Directed by": 			"Grigory Chukhray",
+        "Written by": 			"Giovanni Fago, Augusto Caminito, Grigory Chukhray, Gianfranco Clerici",
+        "Based on":			"",
+        "Produced by":			"",
+        "Starring": 			"Giancarlo Giannini, Ornella Muti, Stefano Madia, Enzo Fiermonte, Luigi Montini",
+        "Cinematography": 		"Mikhail Bits, Luigi Kuveiller",
+        "Edited by": 			"",
+        "Music by": 			"Armando Trovajoli",
+        "Distributed by":		"",
+        "Release date": 		"",
+        "Running time": 		"",
+        "Production Company": 	"Mosfilm, Quattro Cavalli Cinematografica, RAI",
+        "Genre" : 			"Comedy",
+        "Countries": 			"Italy, Soviet Union",
+        "Language":			"Russian, Italian",
+        "Age category" : 		"18+",
+        "Actors and roles":
+            {
+              "Giancarlo Giannini": "Antonio Murillo",
+              "Ornella Muti": 	"Maria",
+              "Stefano Madia": 	"Paco",
+              "Enzo Fiermonte": 	"Maria's uncle",
+              "Luigi Montini": 	"episode",
+              "Regimantas Adomaitis": "investigator Perez (voiced by Vadim Spiridonov)",
+              "Otar Koberidze": 	"Alvarado (voiced by Vladimir Druzhnikov)",
+              "Juozas Budraitis": 	"Gomes",
+              "Yevgeni Lebedev": 	"Rostao",
+              "Stanislav Chekan": 	"prisoner",
+              "Igor Yasulovich": 	"prisoner",
+              "Mikhail Remizov": 	"Osario"
+            }
+      },
+  "Squadron of Flying Hussars":
+      {
+        "Directed by" : "Nikita Khubov, Stanislav Rostotsky",
+        "Written by" : "Sergei Yermolinsky",
+        "Produced by":			"",
+        "Based on":	"",
+        "Starring" : "Andrei Rostotsky, Marina Shimanskaya, Yevgeni Lebedev, Nikolai Yeremenko Jr., Lidiya Kuznetsova",
+        "Cinematography" : "Mikhail Yakovich",
+        "Edited by"	: "Galina Shatrova",
+        "Music by" : "Alexander Zhurbin",
+        "Production Company" : "Gorky Film Studio",
+    	  "Distributed by":		"",
+        "Release date" : "1980",
+        "Running time" : "164 min.",
+        "Countries" : "Soviet Union",
+        "Genre" : "Historical",
+        "Language":"Russian",
+        "Age category" : "10+",
+        "Actors and roles" :
+            {
+              "Andrei Rostotsky" : "Denis Davydov",
+              "Marina Shimanskaya" : "Catherine",
+              "Lidiya Kuznetsova" : "Katerina, a peasant woman",
+              "Yevgeni Lebedev" : "Mikhail Kutuzov",
+              "Yuri Rychkov" : "Popov",
+              "Nikolai Yeremenko Jr." : "Prince Bolkhovsky",
+              "Andrei Syomin" : "Mitya Beketov",
+              "Aleksandr Karin" : "Mikhail Grigorievich Bedryaga",
+              "Aleksandr Zimin" : "Budelyok",
+              "Vladimir Mashchenko" : "Colonel Eichen",
+              "Ivan Krasko" : "Colonel Ustimovich",
+              "Igor Kashintsev" : "Khrapovitsky",
+              "Boris Klyuyev" : "French officer",
+              "Fyodor Odinokov" : "a partisan peasant",
+              "Igor Yasulovich" : "French tailor",
+              "Georgy Martirosyan" : "French officer (uncredited)"
+            }
+      },
+  "White Bim Black Ear":
+      {
+        "Directed by": "Stanislav Rostotsky",
+        "Written by": "Stanislav Rostotsky, Gavriil Troyepolsky",
+        "Produced by":			"",
+        "Based on":	"White Bim Black Ear",
+        "Starring":	"Vyacheslav Tikhonov, Valentina Vladimirova, Mikhail Dadyko, Ivan Ryzhov, Irina Shevchuk",
+        "Cinematography": "Vyacheslav Shumsky; Sergey Serebryannikov",
+        "Music by":	"Andrei Petrov",
+    	  "Edited by":			"",
+        "Production Company": "Gorky Film Studio",
+    	  "Distributed by":		"",
+        "Release date":	"September 15, 1977",
+        "Running time":	"183 minutes",
+        "Countries": "Soviet Union",
+        "Genre" : "Drama",
+        "Language":	"Russian",
+        "Age category" : "6+",
+        "Actors and roles":
+            {
+              "Vyacheslav Tikhonov" : "Ivan Ivanovich (Master)",
+              "Vasya Vorob'ev" : "Tolik (the boy who picked up the dog)",
+              "Irina Shevchuk" : "Dasha",
+              "Valentina Vladimirova" : "Sneaky Woman",
+              "Andrey Martynov" : "driver",
+              "Anya Rybnikova" : "Lyusya (a girl)",
+              "Yuri Grigor'ev" : "police officer",
+              "Two English setters" : "Bim"
+            }
+      }
+}
